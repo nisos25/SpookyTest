@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StrawberryCeleste
+  m_Controller: {fileID: 9100000, guid: 1c166a82941d3ed4d8f05e2c93d06411, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 07c0c189933f5ab47b026b5cd52ea405, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bc16b18ab2cc9214fb32a033072f086e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 59ab9dc32fe15c041b1ebbb27a6984fe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 356aa4ba2b8028f4bbf88ce6536c2b37, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1173fbf23266e0f4a98283a43289a987, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2cac2bf04003f074da3ee73fd5b55ea4, type: 2}

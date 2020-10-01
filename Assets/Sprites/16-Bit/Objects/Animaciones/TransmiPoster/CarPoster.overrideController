@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CarPoster
+  m_Controller: {fileID: 9100000, guid: 1c166a82941d3ed4d8f05e2c93d06411, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 07c0c189933f5ab47b026b5cd52ea405, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 66bf592c2ad206946b5e309c25129a86, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 59ab9dc32fe15c041b1ebbb27a6984fe, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ffca6055ca7db0e468f39e7896c1e850, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1173fbf23266e0f4a98283a43289a987, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: df2f269c90bcef34bbdad8a9d0681a0e, type: 2}

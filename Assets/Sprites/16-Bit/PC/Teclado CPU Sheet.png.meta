@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 2f1e5565bf14e45489289536aac2d104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1721093917853264525
+    second: Teclado CPU Sheet_0
+  - first:
+      213: 994219116193369423
+    second: Teclado CPU Sheet_1
+  - first:
+      213: -1093825673911643094
+    second: Teclado CPU Sheet_2
+  - first:
+      213: 444153397745764135
+    second: Teclado CPU Sheet_3
+  - first:
+      213: 1960422771028823474
+    second: Teclado CPU Sheet_4
+  - first:
+      213: -6048259879878011203
+    second: Teclado CPU Sheet_5
+  - first:
+      213: 199110113288993718
+    second: Teclado CPU Sheet_6
+  - first:
+      213: 4353002145667393591
+    second: Teclado CPU Sheet_7
+  - first:
+      213: 7320881897742854568
+    second: Teclado CPU Sheet_8
+  - first:
+      213: 4115466790926307254
+    second: Teclado CPU Sheet_9
+  - first:
+      213: -4635762497884995122
+    second: Teclado CPU Sheet_10
+  - first:
+      213: 7477455209667600131
+    second: Teclado CPU Sheet_11
+  - first:
+      213: -3844795082184463466
+    second: Teclado CPU Sheet_12
+  - first:
+      213: -8832769529395588891
+    second: Teclado CPU Sheet_13
+  - first:
+      213: -213318774665674043
+    second: Teclado CPU Sheet_14
+  - first:
+      213: 2170501432446536968
+    second: Teclado CPU Sheet_15
+  - first:
+      213: 7901564776287007143
+    second: Teclado CPU Sheet_16
+  - first:
+      213: 2002872970107635708
+    second: Teclado CPU Sheet_17
+  - first:
+      213: 1338218350360572496
+    second: Teclado CPU Sheet_18
+  - first:
+      213: 7769699023941247382
+    second: Teclado CPU Sheet_19
+  - first:
+      213: -7198344572992616026
+    second: Teclado CPU Sheet_20
+  - first:
+      213: -5222414578286860269
+    second: Teclado CPU Sheet_21
+  - first:
+      213: 1158015808089797738
+    second: Teclado CPU Sheet_22
+  - first:
+      213: -3713089395486041807
+    second: Teclado CPU Sheet_23
+  - first:
+      213: -8992444172237593644
+    second: Teclado CPU Sheet_24
+  - first:
+      213: 1948143065231267219
+    second: Teclado CPU Sheet_25
+  - first:
+      213: 3585775275308980483
+    second: Teclado CPU Sheet_26
+  - first:
+      213: -4556799873721186070
+    second: Teclado CPU Sheet_27
+  - first:
+      213: -7069837513049943517
+    second: Teclado CPU Sheet_28
+  - first:
+      213: -1778306316646794289
+    second: Teclado CPU Sheet_29
+  - first:
+      213: -7899669406968689457
+    second: Teclado CPU Sheet_30
+  - first:
+      213: 4218363315191859820
+    second: Teclado CPU Sheet_31
+  - first:
+      213: -4626388992578085047
+    second: Teclado CPU Sheet_32
+  - first:
+      213: -7474141616760802487
+    second: Teclado CPU Sheet_33
+  - first:
+      213: -7553469624714096968
+    second: Teclado CPU Sheet_34
+  - first:
+      213: 4611801086405531641
+    second: Teclado CPU Sheet_35
+  - first:
+      213: -5861302282314787410
+    second: Teclado CPU Sheet_36
+  - first:
+      213: 440573906616687733
+    second: Teclado CPU Sheet_37
+  - first:
+      213: -357787648030036830
+    second: Teclado CPU Sheet_38
+  - first:
+      213: 7919111858216480265
+    second: Teclado CPU Sheet_39
+  - first:
+      213: 4174262997929368295
+    second: Teclado CPU Sheet_40
+  - first:
+      213: 2391462851288407090
+    second: Teclado CPU Sheet_41
+  - first:
+      213: -4102892839824607917
+    second: Teclado CPU Sheet_42
+  - first:
+      213: 4673331198302320186
+    second: Teclado CPU Sheet_43
+  - first:
+      213: 1648077014377427558
+    second: Teclado CPU Sheet_44
+  - first:
+      213: 3533240461828300883
+    second: Teclado CPU Sheet_45
+  - first:
+      213: -439806953100574145
+    second: Teclado CPU Sheet_46
+  - first:
+      213: 1827713452515488170
+    second: Teclado CPU Sheet_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375554153327d18e0800000000000000
+      internalID: -1721093917853264525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dcb91c40d2ccd00800000000000000
+      internalID: 994219116193369423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a245b4c4853f1d0f0800000000000000
+      internalID: -1093825673911643094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7274b6a7923f92600800000000000000
+      internalID: 444153397745764135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd82cc9f12d43b10800000000000000
+      internalID: 1960422771028823474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6df9e2fa3401ca0800000000000000
+      internalID: -6048259879878011203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb37c5d79163c200800000000000000
+      internalID: 199110113288993718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738a4076368f86c30800000000000000
+      internalID: 4353002145667393591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9ec8d5c4ff89560800000000000000
+      internalID: 7320881897742854568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf441edd331d1930800000000000000
+      internalID: 4115466790926307254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1cc7ac1967aafb0800000000000000
+      internalID: -4635762497884995122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Teclado CPU Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f912c55e145c760800000000000000
+      internalID: 7477455209667600131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
